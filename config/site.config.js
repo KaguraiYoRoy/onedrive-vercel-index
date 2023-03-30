@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/iYoRoyNekoo',
+      link: 'https://github.com/KaguraiYoRoy',
     },
   ],
 
